@@ -24,17 +24,17 @@
 
 - 🧰 Frameworks/Tools: [List of frameworks and tools]
 - ⚙️ Other: [List of other relevant skills]
-- Bilingual (Spanish/English)
-- IT Systems Administration (Azure, Active Directory, Powershell, and Jamf Connect)
+- Bilingual (English/Spanish)
+- IT Systems Administration (Azure/Entra, Active Directory, Powershell, Microsoft365 Admin, Zoom Admin, and Jamf Connect)
 - Cybersecurity experience (Kali Linux, Burp Suite, Nessus, Incident Response and Threat modeling)
 - IT Application Support (Database Analysis, Splunk Logs, and web app vulnerability testing)
+- Tech Support (Windows OS, Mac OS, and Linux)
 - Structured wiring and cabling systems installation
 - Computer Science skills (C#, C++, HTML/CSS, SQL, and PHP)
-- Tech Support (CISCO, Microsoft Suite, Mac, and Linux)
 - Interpersonal Communication skills
 - Group Project Management (Waterfall and Agile)
 
 ## Connect With Me
 
 - 📧 Email: jonny7w@gmail.com
-- 🔗 LinkedIn: 
+- 🔗 LinkedIn: www.linkedin.com/in/jonathanguerrerom
