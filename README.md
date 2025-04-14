@@ -6,10 +6,10 @@
 
 ## Projects
 
-- 🚀 **SIEM Homelab** - [Link to Project 1]
+- 🖥️ **SIEM Homelab** -
   - Built small homelab to simulate a SIEM environment to track telemetry using a C2 infrastructure and EDR solution.
   - 🛠️ Technologies: Sliver C2, LimaCharlie
-- 💡 **Honeypot Lab** - [Link to Project 2]
+- 🖥️ **Honeypot Lab** -
   - Created a Honeypot environment to identify/track malicious behaviour coming from an external network.
   - 🛠️ Technologies: 
 
@@ -22,8 +22,6 @@
 
 ## Skills
 
-- 🧰 Frameworks/Tools: [List of frameworks and tools]
-- ⚙️ Other: [List of other relevant skills]
 - Bilingual (English/Spanish)
 - IT Systems Administration (Azure/Entra, Active Directory, Powershell, Microsoft365 Admin, Zoom Admin, and Jamf Connect)
 - Cybersecurity experience (Kali Linux, Burp Suite, Nessus, Incident Response and Threat modeling)
