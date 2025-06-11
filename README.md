@@ -6,7 +6,7 @@
 
 ## Projects
 
-- 🖥️ **SIEM Homelab** -
+- 🖥️ [**SIEM Homelab**](https://github.com/Jonny-Guerrero/LimaCharlieEDR_Lab/blob/main/README.md) -
   - Built small homelab to simulate a SIEM environment to track telemetry using a C2 infrastructure and EDR solution.
   - 🛠️ Technologies: Sliver C2, LimaCharlie
 - 🖥️ **Honeypot Lab** -
